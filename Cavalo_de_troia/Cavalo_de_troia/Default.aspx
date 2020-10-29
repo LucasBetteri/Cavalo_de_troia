@@ -9,9 +9,6 @@
 </head>
 <body>
     <form id="form1" runat="server">
-        <div>
-            VE SE FUNCIONOU<br />
-            Ass: Breno Lima</div>
-    </form>
+        Novo teste</form>
 </body>
 </html>
